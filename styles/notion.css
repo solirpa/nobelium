@@ -1,6 +1,6 @@
 :root {
-  --fg-color: rgb(55, 53, 47);
-  --fg-color-0: rgba(55, 53, 47, 0.09);
+  --fg-color: rgba(55, 53, 47, 0.185);
+  --fg-color-0: rgba(55, 53, 47, 0.877);
   --fg-color-1: rgba(55, 53, 47, 0.16);
   --fg-color-2: rgba(55, 53, 47, 0.4);
   --fg-color-3: rgba(55, 53, 47, 0.6);
@@ -510,7 +510,7 @@
   width: 100%;
   margin: 6px 0;
   padding: 0;
-  border-top: none;
+  /* border-top: none; */
   border-color: var(--fg-color-0);
 }
 

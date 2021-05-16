@@ -65,7 +65,7 @@ const Header = ({ navBarTitle, fullWidth }) => {
         <div className="flex items-center">
           <Link href="/">
             <a>
-              <div className="h-6">
+              <div className="h-3">
                 <svg
                   width="24"
                   height="24"
